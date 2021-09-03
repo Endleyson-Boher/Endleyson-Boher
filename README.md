@@ -30,7 +30,7 @@
 <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" style="max-width:100%">
 
 
-![Snake animation](https://github.com/Endleyson-Boher/endleyson-Boher/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/endleyson-boher/endleyson-Boher/blob/output/github-contribution-grid-snake.svg)
   <a href="https://github.com/Endleyson-Boher">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endleyson-boher&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=endleyson-boher&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
