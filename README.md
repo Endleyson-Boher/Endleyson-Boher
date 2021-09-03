@@ -11,14 +11,17 @@
     <img aling="center" src="https://image.flaticon.com/icons/png/512/1384/1384063.png" width="40" style="max-width:100%" >
 </a>
 
-
 <a href="https://api.whatsapp.com/send?phone=5524992817903&text=Ol%C3%A1%2C%20eu%20vim%20atrav%C3%A9s%20do%20seu%20GitHub."  target="_blank"> 
-    <img aling="center" src="https://image.flaticon.com/icons/png/512/2111/2111728.png" width="40" style="max-width:100%" >
+    <img src="https://image.flaticon.com/icons/png/512/2111/2111728.png" width="40" style="max-width:100%" >
 </a>
 
+<a href="https://discord.com/channels/@me"  target="_blank"> 
+    <img src="https://image.flaticon.com/icons/png/512/356/356009.png" width="40" style="max-width:100%" >
+</a>
 
-
-
+<a href="https://twitter.com/EndyComing"  target="_blank"> 
+    <img src="https://image.flaticon.com/icons/png/512/733/733579.png" width="40" style="max-width:100%" >
+</a>
 
 
 
@@ -28,13 +31,12 @@
 
 <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" style="max-width:100%"> <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" style="max-width:100%">
 <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" style="max-width:100%">
+<img align="right" alt="Endy-Gif" src="https://cdn.discordapp.com/attachments/814329883114602536/883496281908084766/Webp.net-gifmaker.gif" width="100" style="max-width:100%" >
 
 
-![Snake animation](https://github.com/endleyson-boher/endleyson-Boher/blob/output/github-contribution-grid-snake.svg)
-  <a href="https://github.com/Endleyson-Boher">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endleyson-boher&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=endleyson-boher&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
+<a href="https://github.com/Endleyson-Boher">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endleyson-boher&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=endleyson-boher&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  
 <hr />
 
