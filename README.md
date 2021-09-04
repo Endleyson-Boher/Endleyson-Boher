@@ -22,12 +22,12 @@
 
 
 
--------
+------- 
 ## My Skills
 
 <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" style="max-width:100%"> <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" style="max-width:100%">
 <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" style="max-width:100%">
-<img align="right" alt="Endy-Gif" src="https://cdn.discordapp.com/attachments/814329883114602536/883496281908084766/Webp.net-gifmaker.gif" width="100" style="max-width:100%" >
+<img align="right" alt="Endy-Gif" src="https://cdn.discordapp.com/attachments/814329883114602536/883496281908084766/Webp.net-gifmaker.gif" width="100" style="max-width:100%">
 
 
 <a href="https://github.com/Endleyson-Boher">
