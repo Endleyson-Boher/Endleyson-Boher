@@ -30,11 +30,11 @@
 <img align="right" alt="Endy-Gif" src="https://cdn.discordapp.com/attachments/814329883114602536/883496281908084766/Webp.net-gifmaker.gif" width="100" style="max-width:100%">
 
 
-<a href="https://github.com/Endleyson-Boher">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endleyson-boher&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=endleyson-boher&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  
-<hr />
+
 
 
 
