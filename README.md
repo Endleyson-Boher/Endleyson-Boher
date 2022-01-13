@@ -17,7 +17,6 @@
 
 <a href="https://www.youtube.com/watch?v=a74Dn5TPPRk"  target="_blank"> 
     <img src="https://cdn-icons-png.flaticon.com/512/174/174883.png" width="40" style="max-width:100%" >
-    <p>Duarte Jr<p/>
 </a>
 
 
