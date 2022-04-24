@@ -8,15 +8,15 @@
 
 
 <a href="https://www.instagram.com/endleyson_boher/" target="_blank"> 
-    <img aling="center" src="https://image.flaticon.com/icons/png/512/1384/1384063.png" width="40" style="max-width:100%" >
+    <img aling="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" style="max-width:100%" >
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=5524992817903&text=Ol%C3%A1%2C%20eu%20vim%20atrav%C3%A9s%20do%20seu%20GitHub."  target="_blank"> 
-    <img src="https://www.flaticon.com/premium-icon/whatsapp_2504957?term=whatsapp%20logo&page=1&position=3&page=1&position=3&related_id=2504957&origin=search" width="40" style="max-width:100%" >
+    <img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504957.png?token=exp=1650817544~hmac=e2fab9ec63b5175228c256a1a12dafdc" width="40" style="max-width:100%" >
 </a>
 
 <a href="https://www.youtube.com/watch?v=a74Dn5TPPRk"  target="_blank"> 
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174883.png" width="40" style="max-width:100%" >
+    <img src="https://cdn-icons.flaticon.com/png/512/3938/premium/3938026.png?token=exp=1650817732~hmac=1e56f34ca8b4d52ed47253c38d09f7b7" width="40" style="max-width:100%" >
 </a>
 
 
