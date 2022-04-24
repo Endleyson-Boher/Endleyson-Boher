@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=5524992817903&text=Ol%C3%A1%2C%20eu%20vim%20atrav%C3%A9s%20do%20seu%20GitHub."  target="_blank"> 
-    <img src="https://image.flaticon.com/icons/png/512/2111/2111728.png" width="40" style="max-width:100%" >
+    <img src="https://www.flaticon.com/premium-icon/whatsapp_2504957?term=whatsapp%20logo&page=1&position=3&page=1&position=3&related_id=2504957&origin=search" width="40" style="max-width:100%" >
 </a>
 
 <a href="https://www.youtube.com/watch?v=a74Dn5TPPRk"  target="_blank"> 
