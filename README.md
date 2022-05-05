@@ -12,11 +12,11 @@
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=5524992817903&text=Ol%C3%A1%2C%20eu%20vim%20atrav%C3%A9s%20do%20seu%20GitHub."  target="_blank"> 
-    <img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504957.png?token=exp=1650817544~hmac=e2fab9ec63b5175228c256a1a12dafdc" width="40" style="max-width:100%" >
+    <img src="https://www.flaticon.com/br/icone-premium/whatsapp_3536445?term=whatsapp&page=1&position=11&page=1&position=11&related_id=3536445" width="40" style="max-width:100%" >
 </a>
 
 <a href="https://www.youtube.com/watch?v=a74Dn5TPPRk"  target="_blank"> 
-    <img src="https://cdn-icons.flaticon.com/png/512/3938/premium/3938026.png?token=exp=1650817732~hmac=1e56f34ca8b4d52ed47253c38d09f7b7" width="40" style="max-width:100%" >
+    <img src="https://www.flaticon.com/br/icone-premium/youtube_3938037?term=youtube&page=1&position=10&page=1&position=10&related_id=3938037&origin=search" width="40" style="max-width:100%" >
 </a>
 
 
