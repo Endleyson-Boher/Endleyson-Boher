@@ -2,7 +2,7 @@
 
 # I'm Endleyson Boher
 
-###### Olá, me chamo Endleyson Boher, tenho 18 anos e sou estudante da area de TI cursando Tecnico em Informática pelo <a href="https://portal.ifrj.edu.br/pinheiral"> IFRJ Campus Pinheiral </a>. Estou começando minha carreira profissional como desenvolvedor Front-End.
+###### Olá, me chamo Endleyson Boher, tenho 19 anos e sou estudante da area de TI formado em Tecnico em Informática pelo <a href="https://portal.ifrj.edu.br/pinheiral"> IFRJ Campus Pinheiral </a>. Estou começando minha carreira profissional como desenvolvedor Front-End.
 
 ###### Tenho a meta de me tornar um desenvolvedor cada vez melhor e competente. Para entrar em contato só chamar através de alguma rede social:
 
