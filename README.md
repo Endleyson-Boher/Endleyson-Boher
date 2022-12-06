@@ -12,13 +12,20 @@
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=5524992817903&text=Ol%C3%A1%2C%20eu%20vim%20atrav%C3%A9s%20do%20seu%20GitHub."  target="_blank"> 
-    <img src="https://www.flaticon.com/br/icone-gratis/whatsapp_3536445?term=whatsapp&page=1&position=10&page=1&position=10&related_id=3536445&origin=search" width="40" style="max-width:100%" >
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536445.png" width="40" style="max-width:100%" >
 </a>
 
 <a href="https://www.youtube.com/watch?v=a74Dn5TPPRk"  target="_blank"> 
-    <img src="https://cdn-icons.flaticon.com/png/512/3938/premium/3938037.png?token=exp=1651786850~hmac=e231e65bdb6128091508a11d427baa47" width="40" style="max-width:100%" >
+    <img src="https://cdn-icons-png.flaticon.com/512/3256/3256012.png" width="40" style="max-width:100%" >
 </a>
 
+<a href="https://www.linkedin.com/in/endleyson-boher-994085216/"  target="_blank"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40" style="max-width:100%" >
+</a>
+
+<a href="https://www.behance.net/endleysonboher"  target="_blank"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/3991/3991886.png" width="40" style="max-width:100%" >
+</a>
 
 
 
